@@ -1,0 +1,832 @@
+feature,importance,pct_importance
+injury_rate_7d,16,8.88888888888889
+nr. rest days.2_std_7d,7,3.888888888888889
+nr. strength trainings.2_std_7d,7,3.888888888888889
+nr. days with interval session_max_28d,7,3.888888888888889
+max recovery_std_7d,6,3.3333333333333335
+nr. strength trainings.1_min_28d,6,3.3333333333333335
+min training success.2_min_28d,5,2.7777777777777777
+max training success.2_max_28d,4,2.2222222222222223
+nr. rest days.2_min_7d,4,2.2222222222222223
+nr. strength trainings.1_max_14d,3,1.6666666666666667
+nr. sessions.1_max_14d,3,1.6666666666666667
+max km Z5-T1-T2 one day.2_std_7d,3,1.6666666666666667
+rel total kms week 0_1_std_7d,3,1.6666666666666667
+nr. strength trainings.1_std_14d,3,1.6666666666666667
+nr. strength trainings.2_min_28d,3,1.6666666666666667
+nr. days with interval session.2_max_28d,3,1.6666666666666667
+rel total kms week 0_2_min_14d,2,1.1111111111111112
+nr. strength trainings.2_max_7d,2,1.1111111111111112
+nr. strength trainings_min_7d,2,1.1111111111111112
+max training success.2_min_28d,2,1.1111111111111112
+nr. rest days.1_min_7d,2,1.1111111111111112
+nr. rest days.2_min_28d,2,1.1111111111111112
+nr. strength trainings.2_mean_7d,2,1.1111111111111112
+nr. rest days.1_min_28d,2,1.1111111111111112
+max recovery.2_std_7d,2,1.1111111111111112
+total kms.2_std_14d,2,1.1111111111111112
+nr. strength trainings_min_28d,2,1.1111111111111112
+nr. tough sessions effort in Z5 T1 or T2_max_28d,2,1.1111111111111112
+nr. strength trainings_std_14d,2,1.1111111111111112
+nr. strength trainings_min_14d,2,1.1111111111111112
+max km one day_max_28d,2,1.1111111111111112
+nr. rest days.1_max_14d,2,1.1111111111111112
+max km Z5-T1-T2 one day_std_7d,2,1.1111111111111112
+nr. rest days.2_min_14d,2,1.1111111111111112
+nr. strength trainings_std_7d,2,1.1111111111111112
+injury_rate_28d,2,1.1111111111111112
+nr. days with interval session_std_7d,2,1.1111111111111112
+nr. tough sessions effort in Z5 T1 or T2_min_14d,1,0.5555555555555556
+nr. tough sessions effort in Z5 T1 or T2.2_mean_28d,1,0.5555555555555556
+max km Z3-4 one day.1_std_7d,1,0.5555555555555556
+nr. tough sessions effort in Z5 T1 or T2.2_max_28d,1,0.5555555555555556
+max km one day.1_max_14d,1,0.5555555555555556
+min exertion.2_min_14d,1,0.5555555555555556
+max km Z3-4 one day.1_max_28d,1,0.5555555555555556
+nr. days with interval session.2_min_7d,1,0.5555555555555556
+total km Z3-4.1_max_14d,1,0.5555555555555556
+max km one day.2_std_7d,1,0.5555555555555556
+max km Z5-T1-T2 one day.2_min_14d,1,0.5555555555555556
+total km Z5-T1-T2.2_std_7d,1,0.5555555555555556
+nr. rest days.1_std_7d,1,0.5555555555555556
+nr. rest days_std_7d,1,0.5555555555555556
+total hours alternative training.2_std_7d,1,0.5555555555555556
+min exertion.2_min_28d,1,0.5555555555555556
+max km one day.1_max_28d,1,0.5555555555555556
+total km Z3-Z4-Z5-T1-T2.2_std_28d,1,0.5555555555555556
+min training success_min_28d,1,0.5555555555555556
+nr. strength trainings.2_min_7d,1,0.5555555555555556
+max recovery.2_mean_14d,1,0.5555555555555556
+max training success.1_mean_28d,1,0.5555555555555556
+max training success.1_max_28d,1,0.5555555555555556
+injury_rate_14d,1,0.5555555555555556
+avg training success.1_min_7d,1,0.5555555555555556
+rel total kms week 0_1_std_14d,1,0.5555555555555556
+nr. sessions_max_28d,1,0.5555555555555556
+max training success_max_14d,1,0.5555555555555556
+nr. strength trainings_max_14d,1,0.5555555555555556
+total hours alternative training_std_14d,1,0.5555555555555556
+nr. sessions.2_max_28d,1,0.5555555555555556
+nr. sessions.2_min_28d,1,0.5555555555555556
+nr. rest days.2_std_28d,1,0.5555555555555556
+nr. strength trainings.1_std_7d,1,0.5555555555555556
+nr. rest days.2_mean_7d,1,0.5555555555555556
+nr. rest days.2_max_7d,1,0.5555555555555556
+total hours alternative training.1_std_7d,1,0.5555555555555556
+max km one day_std_7d,1,0.5555555555555556
+nr. days with interval session.1_min_28d,1,0.5555555555555556
+min recovery.1_max_14d,1,0.5555555555555556
+max training success_min_28d,1,0.5555555555555556
+nr. strength trainings_max_7d,1,0.5555555555555556
+nr. sessions_max_7d,1,0.5555555555555556
+avg exertion_min_28d,1,0.5555555555555556
+avg recovery.2_std_7d,1,0.5555555555555556
+max exertion_max_7d,1,0.5555555555555556
+avg recovery.2_max_28d,1,0.5555555555555556
+max km Z3-4 one day_max_7d,1,0.5555555555555556
+max recovery.2_mean_28d,1,0.5555555555555556
+rel total kms week 0_2_max_28d,1,0.5555555555555556
+min exertion.2_std_7d,1,0.5555555555555556
+max km one day.1_mean_28d,1,0.5555555555555556
+rel total kms week 1_2_std_7d,1,0.5555555555555556
+max training success_mean_28d,1,0.5555555555555556
+total kms_std_14d,1,0.5555555555555556
+max km one day_min_28d,0,0.0
+max km one day_std_28d,0,0.0
+min exertion_min_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2_mean_28d,0,0.0
+max km one day_mean_28d,0,0.0
+max exertion_mean_28d,0,0.0
+max exertion_std_28d,0,0.0
+total kms_min_28d,0,0.0
+min exertion_max_28d,0,0.0
+max exertion_max_28d,0,0.0
+total kms_max_28d,0,0.0
+avg training success_mean_28d,0,0.0
+total kms_std_28d,0,0.0
+nr. sessions_min_28d,0,0.0
+rel total kms week 1_2_max_14d,0,0.0
+min training success_std_28d,0,0.0
+rel total kms week 1_2_min_14d,0,0.0
+min training success_mean_28d,0,0.0
+nr. sessions_mean_28d,0,0.0
+nr. sessions_std_28d,0,0.0
+avg training success_min_28d,0,0.0
+avg training success_max_28d,0,0.0
+max exertion_min_28d,0,0.0
+nr. rest days_mean_28d,0,0.0
+nr. rest days_std_28d,0,0.0
+nr. rest days_max_28d,0,0.0
+nr. rest days_min_28d,0,0.0
+total kms_mean_28d,0,0.0
+avg training success_std_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2_max_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2_std_28d,0,0.0
+total hours alternative training_max_28d,0,0.0
+min exertion_std_28d,0,0.0
+total km Z5-T1-T2_min_28d,0,0.0
+avg exertion_mean_28d,0,0.0
+total kms_max_7d,0,0.0
+nr. strength trainings_max_28d,0,0.0
+total km Z5-T1-T2_mean_28d,0,0.0
+total km Z5-T1-T2_std_28d,0,0.0
+total km Z5-T1-T2_max_28d,0,0.0
+nr. strength trainings_std_28d,0,0.0
+max km Z5-T1-T2 one day_mean_28d,0,0.0
+avg exertion_std_28d,0,0.0
+max km Z5-T1-T2 one day_std_28d,0,0.0
+max km Z5-T1-T2 one day_max_28d,0,0.0
+max km Z5-T1-T2 one day_min_28d,0,0.0
+total hours alternative training_mean_28d,0,0.0
+nr. strength trainings_mean_28d,0,0.0
+total hours alternative training_std_28d,0,0.0
+total hours alternative training_min_28d,0,0.0
+max km Z3-4 one day_min_28d,0,0.0
+max km Z3-4 one day_max_28d,0,0.0
+min exertion_mean_28d,0,0.0
+total kms_min_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2_min_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_mean_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_std_28d,0,0.0
+max km one day_mean_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_min_28d,0,0.0
+nr. days with interval session_mean_28d,0,0.0
+nr. days with interval session_std_28d,0,0.0
+nr. days with interval session_min_28d,0,0.0
+rel total kms week 1_2_mean_14d,0,0.0
+total km Z3-4_mean_28d,0,0.0
+avg exertion_max_28d,0,0.0
+total km Z3-4_std_28d,0,0.0
+total km Z3-4_max_28d,0,0.0
+total km Z3-4_min_28d,0,0.0
+max km Z3-4 one day_mean_28d,0,0.0
+max km Z3-4 one day_std_28d,0,0.0
+rel total kms week 1_2_std_14d,0,0.0
+total km Z5-T1-T2_mean_7d,0,0.0
+max km one day_max_7d,0,0.0
+max km Z5-T1-T2 one day.2_max_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_mean_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_std_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_max_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_min_14d,0,0.0
+nr. days with interval session.2_mean_14d,0,0.0
+nr. days with interval session.2_std_14d,0,0.0
+nr. days with interval session.2_max_14d,0,0.0
+nr. days with interval session.2_min_14d,0,0.0
+total km Z3-4.2_mean_14d,0,0.0
+total km Z3-4.2_std_14d,0,0.0
+total km Z3-4.2_max_14d,0,0.0
+total km Z3-4.2_min_14d,0,0.0
+max km Z3-4 one day.2_mean_14d,0,0.0
+max km Z3-4 one day.2_std_14d,0,0.0
+max km Z3-4 one day.2_max_14d,0,0.0
+max km Z3-4 one day.2_min_14d,0,0.0
+total km Z5-T1-T2.2_mean_14d,0,0.0
+total km Z5-T1-T2.2_std_14d,0,0.0
+total km Z5-T1-T2.2_max_14d,0,0.0
+total km Z5-T1-T2.2_min_14d,0,0.0
+max km Z5-T1-T2 one day.2_mean_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_min_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_max_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_std_14d,0,0.0
+nr. rest days.2_std_14d,0,0.0
+max recovery.1_mean_14d,0,0.0
+max recovery.1_std_14d,0,0.0
+max recovery.1_max_14d,0,0.0
+max recovery.1_min_14d,0,0.0
+nr. sessions.2_mean_14d,0,0.0
+nr. sessions.2_std_14d,0,0.0
+nr. sessions.2_max_14d,0,0.0
+nr. sessions.2_min_14d,0,0.0
+nr. rest days.2_mean_14d,0,0.0
+nr. rest days.2_max_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_mean_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2_mean_7d,0,0.0
+total kms.2_mean_14d,0,0.0
+max km one day_min_7d,0,0.0
+total kms.2_max_14d,0,0.0
+total kms.2_min_14d,0,0.0
+max km one day.2_mean_14d,0,0.0
+max km one day.2_std_14d,0,0.0
+max km one day.2_max_14d,0,0.0
+max km one day.2_min_14d,0,0.0
+max km Z5-T1-T2 one day.2_std_14d,0,0.0
+total hours alternative training.2_mean_14d,0,0.0
+rel total kms week 0_2_max_14d,0,0.0
+total hours alternative training.2_std_14d,0,0.0
+min training success.2_min_14d,0,0.0
+max training success.2_mean_14d,0,0.0
+max training success.2_std_14d,0,0.0
+max training success.2_max_14d,0,0.0
+max training success.2_min_14d,0,0.0
+avg recovery.2_mean_14d,0,0.0
+avg recovery.2_std_14d,0,0.0
+avg recovery.2_max_14d,0,0.0
+avg recovery.2_min_14d,0,0.0
+min recovery.2_mean_14d,0,0.0
+min recovery.2_std_14d,0,0.0
+min recovery.2_max_14d,0,0.0
+min recovery.2_min_14d,0,0.0
+min training success_max_28d,0,0.0
+max recovery.2_max_14d,0,0.0
+max recovery.2_min_14d,0,0.0
+rel total kms week 0_1_mean_14d,0,0.0
+rel total kms week 0_1_max_14d,0,0.0
+rel total kms week 0_1_min_14d,0,0.0
+rel total kms week 0_2_mean_14d,0,0.0
+rel total kms week 0_2_std_14d,0,0.0
+min training success.2_max_14d,0,0.0
+min training success.2_std_14d,0,0.0
+min training success.2_mean_14d,0,0.0
+avg exertion.2_min_14d,0,0.0
+total hours alternative training.2_max_14d,0,0.0
+total hours alternative training.2_min_14d,0,0.0
+nr. strength trainings.2_mean_14d,0,0.0
+nr. strength trainings.2_std_14d,0,0.0
+nr. strength trainings.2_max_14d,0,0.0
+nr. strength trainings.2_min_14d,0,0.0
+avg exertion.2_mean_14d,0,0.0
+avg exertion.2_std_14d,0,0.0
+avg exertion.2_max_14d,0,0.0
+min exertion.2_mean_14d,0,0.0
+avg training success.2_min_14d,0,0.0
+min exertion.2_std_14d,0,0.0
+min exertion.2_max_14d,0,0.0
+max exertion.2_mean_14d,0,0.0
+max exertion.2_std_14d,0,0.0
+max exertion.2_max_14d,0,0.0
+max exertion.2_min_14d,0,0.0
+avg training success.2_mean_14d,0,0.0
+avg training success.2_std_14d,0,0.0
+avg training success.2_max_14d,0,0.0
+max recovery.2_std_14d,0,0.0
+nr. sessions.1_std_28d,0,0.0
+max training success_std_28d,0,0.0
+total km Z5-T1-T2.2_std_28d,0,0.0
+total km Z3-4.2_mean_28d,0,0.0
+total km Z3-4.2_std_28d,0,0.0
+total km Z3-4.2_max_28d,0,0.0
+total km Z3-4.2_min_28d,0,0.0
+max km Z3-4 one day.2_mean_28d,0,0.0
+max km Z3-4 one day.2_std_28d,0,0.0
+max km Z3-4 one day.2_max_28d,0,0.0
+max km Z3-4 one day.2_min_28d,0,0.0
+total km Z5-T1-T2.2_mean_28d,0,0.0
+total km Z5-T1-T2.2_max_28d,0,0.0
+max training success_max_28d,0,0.0
+total km Z5-T1-T2.2_min_28d,0,0.0
+max km Z5-T1-T2 one day.2_mean_28d,0,0.0
+max km Z5-T1-T2 one day.2_std_28d,0,0.0
+max km Z5-T1-T2 one day.2_max_28d,0,0.0
+max km Z5-T1-T2 one day.2_min_28d,0,0.0
+total hours alternative training.2_mean_28d,0,0.0
+total hours alternative training.2_std_28d,0,0.0
+total hours alternative training.2_max_28d,0,0.0
+total hours alternative training.2_min_28d,0,0.0
+nr. days with interval session.2_min_28d,0,0.0
+nr. rest days_max_7d,0,0.0
+nr. days with interval session.2_std_28d,0,0.0
+nr. days with interval session.2_mean_28d,0,0.0
+max recovery.1_min_28d,0,0.0
+nr. sessions.2_mean_28d,0,0.0
+nr. sessions.2_std_28d,0,0.0
+nr. rest days.2_mean_28d,0,0.0
+nr. rest days.2_max_28d,0,0.0
+nr. rest days_min_7d,0,0.0
+total kms.2_mean_28d,0,0.0
+total kms.2_std_28d,0,0.0
+total kms.2_max_28d,0,0.0
+total kms.2_min_28d,0,0.0
+max km one day.2_mean_28d,0,0.0
+max km one day.2_std_28d,0,0.0
+max km one day.2_max_28d,0,0.0
+max km one day.2_min_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_mean_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_max_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_min_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_std_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_min_28d,0,0.0
+nr. strength trainings.2_mean_28d,0,0.0
+nr. strength trainings.2_std_28d,0,0.0
+nr. strength trainings.2_max_28d,0,0.0
+avg recovery.2_mean_28d,0,0.0
+avg recovery.2_min_28d,0,0.0
+min recovery.2_mean_28d,0,0.0
+min recovery.2_std_28d,0,0.0
+min recovery.2_max_28d,0,0.0
+min recovery.2_min_28d,0,0.0
+max recovery.2_std_28d,0,0.0
+max recovery.2_max_28d,0,0.0
+max recovery.2_min_28d,0,0.0
+rel total kms week 0_1_mean_28d,0,0.0
+rel total kms week 0_1_std_28d,0,0.0
+rel total kms week 0_1_max_28d,0,0.0
+rel total kms week 0_1_min_28d,0,0.0
+rel total kms week 0_2_mean_28d,0,0.0
+rel total kms week 0_2_std_28d,0,0.0
+rel total kms week 0_2_min_28d,0,0.0
+rel total kms week 1_2_mean_28d,0,0.0
+rel total kms week 1_2_std_28d,0,0.0
+rel total kms week 1_2_max_28d,0,0.0
+rel total kms week 1_2_min_28d,0,0.0
+avg recovery.2_std_28d,0,0.0
+nr. sessions_min_7d,0,0.0
+avg exertion.2_mean_28d,0,0.0
+max training success.2_std_28d,0,0.0
+avg exertion.2_std_28d,0,0.0
+avg exertion.2_max_28d,0,0.0
+avg exertion.2_min_28d,0,0.0
+min exertion.2_mean_28d,0,0.0
+min exertion.2_std_28d,0,0.0
+min exertion.2_max_28d,0,0.0
+max exertion.2_mean_28d,0,0.0
+max exertion.2_std_28d,0,0.0
+max exertion.2_max_28d,0,0.0
+max exertion.2_min_28d,0,0.0
+avg training success.2_mean_28d,0,0.0
+avg training success.2_std_28d,0,0.0
+avg training success.2_max_28d,0,0.0
+avg training success.2_min_28d,0,0.0
+min training success.2_mean_28d,0,0.0
+min training success.2_std_28d,0,0.0
+min training success.2_max_28d,0,0.0
+nr. rest days_mean_7d,0,0.0
+max training success.2_mean_28d,0,0.0
+max recovery.1_max_28d,0,0.0
+max recovery.1_std_28d,0,0.0
+max recovery.1_mean_28d,0,0.0
+total kms.1_max_28d,0,0.0
+max km one day.1_std_28d,0,0.0
+max km one day.1_min_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_mean_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_std_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_max_28d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_min_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_mean_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_std_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_max_28d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_min_28d,0,0.0
+nr. days with interval session.1_mean_28d,0,0.0
+nr. days with interval session.1_std_28d,0,0.0
+nr. days with interval session.1_max_28d,0,0.0
+total km Z3-4.1_mean_28d,0,0.0
+total km Z3-4.1_std_28d,0,0.0
+total km Z3-4.1_max_28d,0,0.0
+total km Z3-4.1_min_28d,0,0.0
+max km Z3-4 one day.1_mean_28d,0,0.0
+max km Z3-4 one day.1_std_28d,0,0.0
+total kms.1_min_28d,0,0.0
+total kms.1_std_28d,0,0.0
+total km Z5-T1-T2.1_mean_28d,0,0.0
+total kms.1_mean_28d,0,0.0
+avg recovery_mean_28d,0,0.0
+avg recovery_std_28d,0,0.0
+avg recovery_max_28d,0,0.0
+avg recovery_min_28d,0,0.0
+min recovery_mean_28d,0,0.0
+min recovery_std_28d,0,0.0
+min recovery_max_28d,0,0.0
+min recovery_min_28d,0,0.0
+max recovery_mean_28d,0,0.0
+max recovery_std_28d,0,0.0
+max recovery_max_28d,0,0.0
+max recovery_min_28d,0,0.0
+nr. sessions.1_mean_28d,0,0.0
+nr. sessions.1_max_28d,0,0.0
+nr. sessions.1_min_28d,0,0.0
+nr. rest days.1_mean_28d,0,0.0
+nr. rest days.1_std_28d,0,0.0
+nr. rest days.1_max_28d,0,0.0
+total kms_std_7d,0,0.0
+max km Z3-4 one day.1_min_28d,0,0.0
+total km Z5-T1-T2.1_std_28d,0,0.0
+min recovery.1_min_28d,0,0.0
+max exertion.1_mean_28d,0,0.0
+max exertion.1_max_28d,0,0.0
+max exertion.1_min_28d,0,0.0
+avg training success.1_mean_28d,0,0.0
+avg training success.1_std_28d,0,0.0
+avg training success.1_max_28d,0,0.0
+avg training success.1_min_28d,0,0.0
+min training success.1_mean_28d,0,0.0
+min training success.1_std_28d,0,0.0
+min training success.1_max_28d,0,0.0
+min training success.1_min_28d,0,0.0
+max training success.1_std_28d,0,0.0
+max training success.1_min_28d,0,0.0
+avg recovery.1_mean_28d,0,0.0
+avg recovery.1_std_28d,0,0.0
+avg recovery.1_max_28d,0,0.0
+avg recovery.1_min_28d,0,0.0
+min recovery.1_mean_28d,0,0.0
+min recovery.1_std_28d,0,0.0
+min recovery.1_max_28d,0,0.0
+max exertion.1_std_28d,0,0.0
+min exertion.1_min_28d,0,0.0
+total km Z5-T1-T2.1_max_28d,0,0.0
+min exertion.1_max_28d,0,0.0
+total km Z5-T1-T2.1_min_28d,0,0.0
+max km Z5-T1-T2 one day.1_mean_28d,0,0.0
+max km Z5-T1-T2 one day.1_std_28d,0,0.0
+max km Z5-T1-T2 one day.1_max_28d,0,0.0
+max km Z5-T1-T2 one day.1_min_28d,0,0.0
+total hours alternative training.1_mean_28d,0,0.0
+total hours alternative training.1_std_28d,0,0.0
+total hours alternative training.1_max_28d,0,0.0
+total hours alternative training.1_min_28d,0,0.0
+nr. strength trainings.1_mean_28d,0,0.0
+nr. strength trainings.1_std_28d,0,0.0
+nr. strength trainings.1_max_28d,0,0.0
+total kms_mean_7d,0,0.0
+avg exertion.1_mean_28d,0,0.0
+avg exertion.1_std_28d,0,0.0
+avg exertion.1_max_28d,0,0.0
+avg exertion.1_min_28d,0,0.0
+min exertion.1_mean_28d,0,0.0
+min exertion.1_std_28d,0,0.0
+min recovery.1_min_14d,0,0.0
+min training success.1_mean_14d,0,0.0
+min recovery.1_std_14d,0,0.0
+min recovery.1_mean_14d,0,0.0
+avg recovery.1_max_7d,0,0.0
+avg recovery.1_min_7d,0,0.0
+min recovery.1_mean_7d,0,0.0
+min recovery.1_std_7d,0,0.0
+min recovery.1_max_7d,0,0.0
+min recovery.1_min_7d,0,0.0
+max recovery.1_mean_7d,0,0.0
+max recovery.1_std_7d,0,0.0
+max recovery.1_max_7d,0,0.0
+max recovery.1_min_7d,0,0.0
+nr. sessions.2_mean_7d,0,0.0
+nr. sessions.2_std_7d,0,0.0
+nr. sessions.2_max_7d,0,0.0
+nr. sessions.2_min_7d,0,0.0
+total km Z3-4_max_7d,0,0.0
+total km Z3-4_std_7d,0,0.0
+total kms.2_mean_7d,0,0.0
+total kms.2_std_7d,0,0.0
+total kms.2_max_7d,0,0.0
+total kms.2_min_7d,0,0.0
+max km one day.2_mean_7d,0,0.0
+avg recovery.1_std_7d,0,0.0
+avg recovery.1_mean_7d,0,0.0
+max training success.1_min_7d,0,0.0
+max exertion.1_max_7d,0,0.0
+avg exertion.1_std_7d,0,0.0
+avg exertion.1_max_7d,0,0.0
+avg exertion.1_min_7d,0,0.0
+min exertion.1_mean_7d,0,0.0
+min exertion.1_std_7d,0,0.0
+min exertion.1_max_7d,0,0.0
+min exertion.1_min_7d,0,0.0
+max exertion.1_mean_7d,0,0.0
+max exertion.1_std_7d,0,0.0
+max exertion.1_min_7d,0,0.0
+max training success.1_max_7d,0,0.0
+avg training success.1_mean_7d,0,0.0
+avg training success.1_std_7d,0,0.0
+avg training success.1_max_7d,0,0.0
+min training success.1_mean_7d,0,0.0
+min training success.1_std_7d,0,0.0
+min training success.1_max_7d,0,0.0
+min training success.1_min_7d,0,0.0
+max training success.1_mean_7d,0,0.0
+max training success.1_std_7d,0,0.0
+max km one day.2_max_7d,0,0.0
+max km one day.2_min_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_mean_7d,0,0.0
+min exertion.2_mean_7d,0,0.0
+total hours alternative training.2_mean_7d,0,0.0
+total hours alternative training.2_max_7d,0,0.0
+total hours alternative training.2_min_7d,0,0.0
+nr. days with interval session_min_7d,0,0.0
+nr. days with interval session_max_7d,0,0.0
+avg exertion.2_mean_7d,0,0.0
+avg exertion.2_std_7d,0,0.0
+avg exertion.2_max_7d,0,0.0
+avg exertion.2_min_7d,0,0.0
+min exertion.2_max_7d,0,0.0
+max km Z5-T1-T2 one day.2_max_7d,0,0.0
+min exertion.2_min_7d,0,0.0
+max exertion.2_mean_7d,0,0.0
+max exertion.2_std_7d,0,0.0
+max exertion.2_max_7d,0,0.0
+max exertion.2_min_7d,0,0.0
+avg training success.2_mean_7d,0,0.0
+avg training success.2_std_7d,0,0.0
+avg training success.2_max_7d,0,0.0
+avg training success.2_min_7d,0,0.0
+max km Z5-T1-T2 one day.2_min_7d,0,0.0
+total km Z3-4_mean_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_std_7d,0,0.0
+total km Z3-4.2_mean_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_max_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.2_min_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_mean_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_std_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_max_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.2_min_7d,0,0.0
+nr. days with interval session.2_mean_7d,0,0.0
+nr. days with interval session.2_std_7d,0,0.0
+nr. days with interval session.2_max_7d,0,0.0
+total km Z3-4.2_std_7d,0,0.0
+max km Z5-T1-T2 one day.2_mean_7d,0,0.0
+total km Z3-4.2_max_7d,0,0.0
+total km Z3-4.2_min_7d,0,0.0
+max km Z3-4 one day.2_mean_7d,0,0.0
+max km Z3-4 one day.2_std_7d,0,0.0
+max km Z3-4 one day.2_max_7d,0,0.0
+max km Z3-4 one day.2_min_7d,0,0.0
+total km Z5-T1-T2.2_mean_7d,0,0.0
+total km Z5-T1-T2.2_max_7d,0,0.0
+total km Z5-T1-T2.2_min_7d,0,0.0
+avg exertion.1_mean_7d,0,0.0
+nr. strength trainings.1_min_7d,0,0.0
+nr. strength trainings.1_max_7d,0,0.0
+max training success_max_7d,0,0.0
+avg training success_std_7d,0,0.0
+avg training success_max_7d,0,0.0
+avg training success_min_7d,0,0.0
+min training success_mean_7d,0,0.0
+min training success_std_7d,0,0.0
+min training success_max_7d,0,0.0
+min training success_min_7d,0,0.0
+max training success_mean_7d,0,0.0
+max training success_std_7d,0,0.0
+max training success_min_7d,0,0.0
+max exertion_min_7d,0,0.0
+avg recovery_mean_7d,0,0.0
+avg recovery_std_7d,0,0.0
+avg recovery_max_7d,0,0.0
+avg recovery_min_7d,0,0.0
+min recovery_mean_7d,0,0.0
+min recovery_std_7d,0,0.0
+min recovery_max_7d,0,0.0
+min recovery_min_7d,0,0.0
+max recovery_mean_7d,0,0.0
+avg training success_mean_7d,0,0.0
+max exertion_std_7d,0,0.0
+max recovery_max_7d,0,0.0
+total hours alternative training_min_7d,0,0.0
+total km Z5-T1-T2_max_7d,0,0.0
+total km Z5-T1-T2_min_7d,0,0.0
+max km Z5-T1-T2 one day_mean_7d,0,0.0
+max km Z3-4 one day_min_7d,0,0.0
+max km Z5-T1-T2 one day_max_7d,0,0.0
+max km Z5-T1-T2 one day_min_7d,0,0.0
+total hours alternative training_mean_7d,0,0.0
+total hours alternative training_std_7d,0,0.0
+total hours alternative training_max_7d,0,0.0
+nr. strength trainings_mean_7d,0,0.0
+max exertion_mean_7d,0,0.0
+max km Z3-4 one day_std_7d,0,0.0
+avg exertion_mean_7d,0,0.0
+avg exertion_std_7d,0,0.0
+avg exertion_max_7d,0,0.0
+avg exertion_min_7d,0,0.0
+min exertion_mean_7d,0,0.0
+min exertion_std_7d,0,0.0
+min exertion_max_7d,0,0.0
+min exertion_min_7d,0,0.0
+max km Z3-4 one day_mean_7d,0,0.0
+max recovery_min_7d,0,0.0
+nr. strength trainings.1_mean_7d,0,0.0
+total km Z5-T1-T2.1_mean_7d,0,0.0
+nr. days with interval session.1_max_7d,0,0.0
+nr. days with interval session.1_min_7d,0,0.0
+total km Z3-4.1_mean_7d,0,0.0
+total km Z3-4.1_std_7d,0,0.0
+total km Z3-4.1_max_7d,0,0.0
+total km Z3-4.1_min_7d,0,0.0
+max km Z3-4 one day.1_mean_7d,0,0.0
+max km Z3-4 one day.1_max_7d,0,0.0
+max km Z3-4 one day.1_min_7d,0,0.0
+total km Z5-T1-T2.1_std_7d,0,0.0
+nr. days with interval session.1_mean_7d,0,0.0
+total km Z5-T1-T2.1_max_7d,0,0.0
+total km Z5-T1-T2.1_min_7d,0,0.0
+max km Z5-T1-T2 one day.1_mean_7d,0,0.0
+max km Z5-T1-T2 one day.1_std_7d,0,0.0
+max km Z5-T1-T2 one day.1_max_7d,0,0.0
+max km Z5-T1-T2 one day.1_min_7d,0,0.0
+total hours alternative training.1_mean_7d,0,0.0
+total hours alternative training.1_max_7d,0,0.0
+total hours alternative training.1_min_7d,0,0.0
+nr. days with interval session.1_std_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_min_7d,0,0.0
+nr. sessions.1_mean_7d,0,0.0
+total kms.1_min_7d,0,0.0
+nr. sessions.1_std_7d,0,0.0
+nr. sessions.1_max_7d,0,0.0
+nr. sessions.1_min_7d,0,0.0
+nr. rest days.1_mean_7d,0,0.0
+nr. rest days.1_max_7d,0,0.0
+total km Z3-4_min_7d,0,0.0
+total kms.1_mean_7d,0,0.0
+total kms.1_std_7d,0,0.0
+total kms.1_max_7d,0,0.0
+max km one day.1_mean_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_max_7d,0,0.0
+max km one day.1_std_7d,0,0.0
+max km one day.1_max_7d,0,0.0
+max km one day.1_min_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_mean_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_std_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_max_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_min_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_mean_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_std_7d,0,0.0
+min training success.2_mean_7d,0,0.0
+min training success.2_std_7d,0,0.0
+min training success.2_max_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_mean_14d,0,0.0
+total kms.1_max_14d,0,0.0
+total kms.1_min_14d,0,0.0
+max km one day.1_mean_14d,0,0.0
+max km one day.1_std_14d,0,0.0
+max km one day.1_min_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_mean_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_std_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_max_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2.1_min_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_std_14d,0,0.0
+total kms.1_mean_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_max_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2.1_min_14d,0,0.0
+nr. days with interval session.1_mean_14d,0,0.0
+nr. days with interval session.1_std_14d,0,0.0
+nr. days with interval session.1_max_14d,0,0.0
+nr. days with interval session.1_min_14d,0,0.0
+total km Z3-4.1_mean_14d,0,0.0
+total km Z3-4.1_std_14d,0,0.0
+total km Z3-4.1_min_14d,0,0.0
+total kms.1_std_14d,0,0.0
+nr. rest days.1_min_14d,0,0.0
+max km Z3-4 one day.1_std_14d,0,0.0
+min recovery_min_14d,0,0.0
+max training success_std_14d,0,0.0
+max training success_min_14d,0,0.0
+avg recovery_mean_14d,0,0.0
+avg recovery_std_14d,0,0.0
+avg recovery_max_14d,0,0.0
+avg recovery_min_14d,0,0.0
+min recovery_mean_14d,0,0.0
+min recovery_std_14d,0,0.0
+min recovery_max_14d,0,0.0
+max recovery_mean_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2_max_7d,0,0.0
+max recovery_std_14d,0,0.0
+max recovery_max_14d,0,0.0
+max recovery_min_14d,0,0.0
+nr. sessions.1_mean_14d,0,0.0
+nr. sessions.1_std_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2_min_7d,0,0.0
+nr. sessions.1_min_14d,0,0.0
+nr. rest days.1_mean_14d,0,0.0
+nr. rest days.1_std_14d,0,0.0
+max km Z3-4 one day.1_mean_14d,0,0.0
+max km Z3-4 one day.1_max_14d,0,0.0
+min training success_min_14d,0,0.0
+min training success.1_std_14d,0,0.0
+max exertion.1_mean_14d,0,0.0
+max exertion.1_std_14d,0,0.0
+max exertion.1_max_14d,0,0.0
+max exertion.1_min_14d,0,0.0
+avg training success.1_mean_14d,0,0.0
+avg training success.1_std_14d,0,0.0
+avg training success.1_max_14d,0,0.0
+avg training success.1_min_14d,0,0.0
+total km Z5-T1-T2_std_7d,0,0.0
+min training success.1_max_14d,0,0.0
+min exertion.1_max_14d,0,0.0
+min training success.1_min_14d,0,0.0
+max training success.1_mean_14d,0,0.0
+max training success.1_std_14d,0,0.0
+max training success.1_max_14d,0,0.0
+max training success.1_min_14d,0,0.0
+avg recovery.1_mean_14d,0,0.0
+avg recovery.1_std_14d,0,0.0
+avg recovery.1_max_14d,0,0.0
+avg recovery.1_min_14d,0,0.0
+min exertion.1_min_14d,0,0.0
+min exertion.1_std_14d,0,0.0
+max km Z3-4 one day.1_min_14d,0,0.0
+total hours alternative training.1_std_14d,0,0.0
+total km Z5-T1-T2.1_mean_14d,0,0.0
+total km Z5-T1-T2.1_std_14d,0,0.0
+total km Z5-T1-T2.1_max_14d,0,0.0
+total km Z5-T1-T2.1_min_14d,0,0.0
+max km Z5-T1-T2 one day.1_mean_14d,0,0.0
+max km Z5-T1-T2 one day.1_std_14d,0,0.0
+max km Z5-T1-T2 one day.1_max_14d,0,0.0
+max km Z5-T1-T2 one day.1_min_14d,0,0.0
+total hours alternative training.1_mean_14d,0,0.0
+total hours alternative training.1_max_14d,0,0.0
+min exertion.1_mean_14d,0,0.0
+total hours alternative training.1_min_14d,0,0.0
+nr. strength trainings.1_mean_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2_std_7d,0,0.0
+nr. sessions_std_7d,0,0.0
+nr. strength trainings.1_min_14d,0,0.0
+avg exertion.1_mean_14d,0,0.0
+avg exertion.1_std_14d,0,0.0
+avg exertion.1_max_14d,0,0.0
+avg exertion.1_min_14d,0,0.0
+max training success_mean_14d,0,0.0
+min training success_max_14d,0,0.0
+min training success.2_min_7d,0,0.0
+nr. rest days_max_14d,0,0.0
+rel total kms week 1_2_max_7d,0,0.0
+rel total kms week 1_2_min_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_max_7d,0,0.0
+nr. sessions_mean_14d,0,0.0
+nr. sessions_std_14d,0,0.0
+nr. sessions_max_14d,0,0.0
+nr. sessions_min_14d,0,0.0
+nr. rest days_mean_14d,0,0.0
+nr. rest days_std_14d,0,0.0
+nr. rest days_min_14d,0,0.0
+rel total kms week 0_2_min_7d,0,0.0
+total kms_mean_14d,0,0.0
+total kms_max_14d,0,0.0
+total kms_min_14d,0,0.0
+max km one day_mean_14d,0,0.0
+max km one day_std_14d,0,0.0
+max km one day_max_14d,0,0.0
+max km one day_min_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2_mean_14d,0,0.0
+total km Z3-Z4-Z5-T1-T2_std_14d,0,0.0
+rel total kms week 1_2_mean_7d,0,0.0
+rel total kms week 0_2_max_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2_min_14d,0,0.0
+min recovery.2_max_7d,0,0.0
+max training success.2_mean_7d,0,0.0
+max training success.2_std_7d,0,0.0
+max training success.2_max_7d,0,0.0
+max training success.2_min_7d,0,0.0
+avg recovery.2_mean_7d,0,0.0
+avg recovery.2_max_7d,0,0.0
+avg recovery.2_min_7d,0,0.0
+min recovery.2_mean_7d,0,0.0
+min recovery.2_std_7d,0,0.0
+min recovery.2_min_7d,0,0.0
+rel total kms week 0_2_std_7d,0,0.0
+max recovery.2_mean_7d,0,0.0
+nr. days with interval session_mean_7d,0,0.0
+max recovery.2_max_7d,0,0.0
+max recovery.2_min_7d,0,0.0
+rel total kms week 0_1_mean_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_min_7d,0,0.0
+rel total kms week 0_1_max_7d,0,0.0
+rel total kms week 0_1_min_7d,0,0.0
+rel total kms week 0_2_mean_7d,0,0.0
+total km Z3-Z4-Z5-T1-T2_max_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_mean_14d,0,0.0
+min training success_std_14d,0,0.0
+min exertion_max_14d,0,0.0
+nr. strength trainings_mean_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_std_7d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_mean_7d,0,0.0
+avg exertion_mean_14d,0,0.0
+avg exertion_std_14d,0,0.0
+avg exertion_max_14d,0,0.0
+avg exertion_min_14d,0,0.0
+min exertion_mean_14d,0,0.0
+min exertion_std_14d,0,0.0
+min exertion_min_14d,0,0.0
+total hours alternative training_max_14d,0,0.0
+max exertion_mean_14d,0,0.0
+max exertion_std_14d,0,0.0
+max exertion_max_14d,0,0.0
+max exertion_min_14d,0,0.0
+avg training success_mean_14d,0,0.0
+avg training success_std_14d,0,0.0
+avg training success_max_14d,0,0.0
+avg training success_min_14d,0,0.0
+min training success_mean_14d,0,0.0
+total hours alternative training_min_14d,0,0.0
+total hours alternative training_mean_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_std_14d,0,0.0
+max km Z3-4 one day_mean_14d,0,0.0
+nr. tough sessions effort in Z5 T1 or T2_max_14d,0,0.0
+nr. days with interval session_mean_14d,0,0.0
+nr. days with interval session_std_14d,0,0.0
+nr. days with interval session_max_14d,0,0.0
+nr. days with interval session_min_14d,0,0.0
+total km Z3-4_mean_14d,0,0.0
+total km Z3-4_std_14d,0,0.0
+total km Z3-4_max_14d,0,0.0
+total km Z3-4_min_14d,0,0.0
+max km Z3-4 one day_std_14d,0,0.0
+max km Z5-T1-T2 one day_min_14d,0,0.0
+max km Z3-4 one day_max_14d,0,0.0
+max km Z3-4 one day_min_14d,0,0.0
+total km Z5-T1-T2_mean_14d,0,0.0
+total km Z5-T1-T2_std_14d,0,0.0
+total km Z5-T1-T2_max_14d,0,0.0
+total km Z5-T1-T2_min_14d,0,0.0
+max km Z5-T1-T2 one day_mean_14d,0,0.0
+max km Z5-T1-T2 one day_std_14d,0,0.0
+max km Z5-T1-T2 one day_max_14d,0,0.0
+nr. sessions_mean_7d,0,0.0

@@ -1,0 +1,92 @@
+Loading and preprocessing data...
+
+=== Model Training ===
+
+=== Time Series Cross-Validation with LightGBM ===
+
+--- Fold 1 ---
+Training LightGBM model...
+Original class distribution: {0: 5641, 1: 67}
+Training set after sampling: Class distribution = {0: 5641, 1: 2820}
+Resampled dataset size: 8461 (Positive: 2820, Negative: 5641)
+Training until validation scores don't improve for 50 rounds
+Early stopping, best iteration is:
+[50]	train's auc: 0.99996	train's binary_logloss: 0.0146026	valid's auc: 0.631906	valid's binary_logloss: 0.0840001
+LightGBM AUC: 0.6319
+
+--- Fold 2 ---
+Training LightGBM model...
+Original class distribution: {0: 11272, 1: 142}
+Training set after sampling: Class distribution = {0: 11272, 1: 5636}
+Resampled dataset size: 16908 (Positive: 5636, Negative: 11272)
+Training until validation scores don't improve for 50 rounds
+Early stopping, best iteration is:
+[8]	train's auc: 0.994185	train's binary_logloss: 0.327568	valid's auc: 0.698864	valid's binary_logloss: 0.368254
+LightGBM AUC: 0.6989
+
+--- Fold 3 ---
+Training LightGBM model...
+Original class distribution: {0: 16899, 1: 221}
+Training set after sampling: Class distribution = {0: 16899, 1: 8449}
+Resampled dataset size: 25348 (Positive: 8449, Negative: 16899)
+Training until validation scores don't improve for 50 rounds
+Early stopping, best iteration is:
+[5]	train's auc: 0.981873	train's binary_logloss: 0.438937	valid's auc: 0.706919	valid's binary_logloss: 0.474886
+LightGBM AUC: 0.7069
+
+--- Fold 4 ---
+Training LightGBM model...
+Original class distribution: {0: 22530, 1: 296}
+Training set after sampling: Class distribution = {0: 22530, 1: 11265}
+Resampled dataset size: 33795 (Positive: 11265, Negative: 22530)
+Training until validation scores don't improve for 50 rounds
+Early stopping, best iteration is:
+[9]	train's auc: 0.987409	train's binary_logloss: 0.32642	valid's auc: 0.69608	valid's binary_logloss: 0.370547
+LightGBM AUC: 0.6961
+
+--- Fold 5 ---
+Training LightGBM model...
+Original class distribution: {0: 28149, 1: 383}
+Training set after sampling: Class distribution = {0: 28149, 1: 14074}
+Resampled dataset size: 42223 (Positive: 14074, Negative: 28149)
+Training until validation scores don't improve for 50 rounds
+Early stopping, best iteration is:
+[6]	train's auc: 0.981973	train's binary_logloss: 0.423171	valid's auc: 0.756095	valid's binary_logloss: 0.465116
+LightGBM AUC: 0.7561
+
+Best model selected from fold 5 with AUC: 0.7561
+Best parameters saved to results/lightgbm_best_params.json
+
+=== Model Evaluation ===
+Optimal threshold for recall: 0.3535
+
+==== Injury Prediction Model Validation Set Performance ====
+AUC: 0.7762
+F1 Score: 0.0520
+Precision: 0.0269
+Accuracy: 0.6241
+Specificity: 0.6221
+Injury risk score(Recall): 0.7674
+confusion_matrix: TN=21014, FP=12764, FN=107, TP=353
+
+==== Injury Prediction Model Test Set Performance ====
+AUC: 0.7234
+F1 Score: 0.0460
+Precision: 0.0238
+Accuracy: 0.6217
+Specificity: 0.6210
+Injury risk score(Recall): 0.6783
+confusion_matrix: TN=5244, FP=3201, FN=37, TP=78
+
+=== Saving Results ===
+Model and metadata saved to results/injury_prediction_model.pkl and results/injury_prediction_model_metadata.pkl
+
+=== Final Model Performance ===
+AUC: 0.7234
+F1 Score: 0.0460
+Injury Risk Score (Recall): 0.6783
+Confusion Matrix:
+  TP: 78
+  FP: 3201
+  FN: 37
+  TN: 5244
