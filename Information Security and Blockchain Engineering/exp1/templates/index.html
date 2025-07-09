@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHA-256 & AES</title>
+</head>
+<body>
+    <h1>SHA-256 & AES Encryption/Decryption</h1>
+
+    <h2>SHA-256 Hash</h2>
+    <label for="sha256-input">Input String:</label>
+    <input type="text" id="sha256-input" placeholder="Enter string here">
+    <button onclick="calculateHash()">Calculate Hash</button>
+    <br><br>
+    <label for="sha256-output">Hash Value:</label>
+    <input type="text" id="sha256-output"  readonly style="width: 500px;">
+
+    <h2>AES Encryption</h2>
+    <label for="aes-input">Input String:</label>
+    <input type="text" id="aes-input" placeholder="Enter string here">
+    <label for="aes-key">Key:</label>
+    <input type="text" id="aes-key" placeholder="Enter key here">
+    <button onclick="encrypt()">Encrypt</button>
+    <br><br>
+    <label for="aes-encrypted">Encrypted String:</label>
+    <input type="text" id="aes-encrypted"  readonly style="width: 500px;">
+
+    <h2>AES Decryption</h2>
+    <label for="aes-decrypted-input">Encrypted String:</label>
+    <input type="text" id="aes-decrypted-input" placeholder="Enter encrypted string here">
+    <label for="aes-decrypt-key">Key:</label>
+    <input type="text" id="aes-decrypt-key" placeholder="Enter key here">
+    <button onclick="decrypt()">Decrypt</button>
+    <br><br>
+    <label for="aes-decrypted">Decrypted String:</label>
+    <input type="text" id="aes-decrypted"  readonly style="width: 500px;">
+
+    <script>
+        async function calculateHash() {
+            const inputString = document.getElementById('sha256-input').value;
+            const response = await fetch('/sha256', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ input_string: inputString }),
+            });
+            const data = await response.json();
+            document.getElementById('sha256-output').value = data.hash_value;
+        }
+
+        async function encrypt() {
+            const inputString = document.getElementById('aes-input').value;
+            const key = document.getElementById('aes-key').value;
+            const response = await fetch('/encrypt', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ input_string: inputString, key: key }),
+            });
+            const data = await response.json();
+            document.getElementById('aes-encrypted').value = data.encrypted_string;
+        }
+
+        async function decrypt() {
+            const encryptedString = document.getElementById('aes-decrypted-input').value;
+            const key = document.getElementById('aes-decrypt-key').value;
+            const response = await fetch('/decrypt', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ encrypted_string: encryptedString, key: key }),
+            });
+            const data = await response.json();
+            document.getElementById('aes-decrypted').value = data.decrypted_string;
+        }
+    </script>
+</body>
+</html>
